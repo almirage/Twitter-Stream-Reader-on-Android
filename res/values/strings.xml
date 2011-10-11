@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twitter_id">twitter id</string>
+    <string name="twitter_password">twitter password</string>
+    <string name="keyword">keyword</string>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Twitter Stream Reader</string>
+    <string name="detail">Detail</string>
+    <string name="nodata">データがありません</string>
+</resources>
